@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NitrixVideoTask</string>
+    <string name="player">Player</string>
+    <string name="video">Video</string>
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">Description</string>
+</resources>
